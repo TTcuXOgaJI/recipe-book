@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import {RecipeService} from "../recipes";
 
 @Component({
   selector: 'rb-shopping-list-add',
